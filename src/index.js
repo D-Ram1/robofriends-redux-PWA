@@ -33,4 +33,4 @@ root.render(
 //   </Provider>,
 //   document.getElementById('root')
 // );
-registerServiceWorker();
+registerServiceWorker.register();
